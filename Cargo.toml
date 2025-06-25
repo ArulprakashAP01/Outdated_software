@@ -1,0 +1,9 @@
+[package]
+name = "outdated_rust_project"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
+serde = "1.0.104"         # Latest is ~1.0.198
+tokio = "0.2.22"          # Very old version
+reqwest = "0.10.10"       # Outdated, lacks modern features
