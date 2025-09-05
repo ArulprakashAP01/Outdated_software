@@ -10,19 +10,7 @@ hhj
 
 sjdjhhj
 lsdmlks
-khsdh
-jhjhdh
-jhj
-skdhkh
-ksdhjk
-sdhk
-khke
-trtyy
-xkdjh
-hh
-kjaskj
-skdj
-asashj
+
 hghjgh
 shgs
 jhjhsdjh
